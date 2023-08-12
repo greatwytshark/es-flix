@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+:root {
+    --font: #FFF;
+    --background-color: #000000;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    /*font-family: 'Caveat', cursive;
+    font-family: 'Poppins', sans-serif;*/
+    font-family: 'Ubuntu', sans-serif;
+    background-color: var(--background-color);
+    overflow-x: hidden;
+}
